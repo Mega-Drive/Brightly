@@ -1088,7 +1088,7 @@ section
 
 .cta
 {
-	height: 948px;
+	height: 656px;
 	background-image: url(../images/cta.jpg);
     background-position: center center;
     background-size: cover;
@@ -1136,7 +1136,7 @@ section
 }
 .features
 {
-	margin-top: 117px;
+	margin-top: 95px;
 }
 .feature:not(:last-child)
 {
@@ -1322,11 +1322,11 @@ section
 {
 	background: #ffffff;
 	padding-top: 123px;
-	padding-bottom: 3px;
+	padding-bottom: 67px;
 }
 .team_row
 {
-	margin-top: 125px;
+	margin-top: 95px;
 }
 .team_item
 {
